@@ -1,4 +1,3 @@
-# My First App
-This is my first app.
-## Introduction
-This is an introduction to my first app.
+
+# مقدمة في مفهوم Git
+سنتعلم في هذا الجزء كيفية التعامل مع Git.
